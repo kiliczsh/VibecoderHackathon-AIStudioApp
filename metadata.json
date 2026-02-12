@@ -1,0 +1,8 @@
+{
+  "name": "CivicBridge",
+  "description": "A municipality-backed platform connecting teenagers with elders for local service tasks, fostering intergenerational bonds while providing youth with city-funded civic credits and real-world experience.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
